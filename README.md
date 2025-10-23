@@ -1,29 +1,63 @@
 Junior Data Scientist – Trader Behavior Insights
 
-Assignment Objective
+📊 Project Overview
 
-This project successfully fulfilled the objective of exploring the relationship between individual trader performance and overall Bitcoin market sentiment using two integrated datasets: the Bitcoin Market Sentiment Dataset (Fear/Greed Index) and Historical Trader Data from Hyperliquid. The goal was to deliver actionable insights for building smarter, systematic trading strategies.
+An analytical project correlating individual trader performance with the Bitcoin Market Sentiment Dataset (Fear/Greed Index) to identify hidden patterns and deliver actionable insights for systematic Web3 trading.
 
-🚀 Key Findings & Conclusion
+🎯 Objective
 
-The analysis identified a clear and successful Contrarian Trading Strategy.
+The core objective was to explore the relationship between trader performance (PnL, Volume) and market emotion to determine if sentiment could be leveraged as a primary signal for developing smarter, automated trading strategies.
 
-The trader's primary success is derived from exploiting extremes in market emotion. The data confirms that profitability peaks when the market is in "Extreme Fear," while profitability is lowest during periods of "Greed."
+📌 Key Insights
 
-This outcome provides a strong, data-driven framework for developing automated trading rules that use the sentiment index as a primary signal for capital allocation and risk management.
+The analysis identified a clear and highly effective Contrarian Trading Strategy.
 
-📂 Project Files
+Highest Profitability in Panic: The trader's success (profit/alpha) peaks when the market is in "Extreme Fear." This proves that buying into panic is the core source of profitable trades.
 
-This repository contains the necessary files to review the analysis:
+Highest Losses in Euphoria: The trader is consistently less profitable and often incurs losses when the market is experiencing "Greed."
 
-Input Data: historical_data.csv (Trader Metrics) and fear_greed_index.csv (Sentiment Data).
+Actionable Strategy: The outcome provides a strong framework for developing automated trading rules that use sentiment as a primary signal for capital allocation and risk management.
 
-Analysis Code: Bitcoin_analysis.ipynb (The complete Python notebook for cleaning, merging, and analysis).
+🛠️ Project Files & Tools
 
-Final Deliverable: trader_behavior_insights_report.md (A structured report detailing the findings, insights, and recommendations).
+File Name
 
-Visual Evidence: Generated image files showing key charts (e.g., PnL Over Time, PnL vs. Sentiment, Volume vs. Sentiment).
+Description
 
-🛠️ How to Replicate
+Purpose
 
-To replicate the analysis, clone the repository, ensure Python dependencies are installed, and run the cells within the Bitcoin_analysis.ipynb notebook sequentially.
+historical_data.csv
+
+Raw trade-level performance data from Hyperliquid.
+
+Input Dataset 1
+
+fear_greed_index.csv
+
+Daily Bitcoin Market Sentiment classification.
+
+Input Dataset 2
+
+Bitcoin_analysis.ipynb
+
+Analysis Code: Complete Python notebook for data cleaning, merging, feature engineering, and visualization generation.
+
+Methodology
+
+trader_behavior_insights_report.md
+
+Final Deliverable: Structured report detailing the findings, insights, and strategic recommendations.
+
+Conclusion
+
+(Image Files)
+
+Visual evidence showing PnL vs. Sentiment, Volume vs. Sentiment, and PnL Over Time.
+
+Evidence
+
+🚀 How to Replicate
+
+Repository Setup: Clone this repository.
+
+Run Analysis: Open the Bitcoin_analysis.ipynb notebook and execute the cells sequentially to reproduce the data processing, merge the datasets, and regenerate the four core charts used in the report.
