@@ -102,10 +102,10 @@ Jupyter Notebook
 
 Datasets: Hyperliquid trade data, Fear & Greed Index
 
-📬 Contact
+## 📬 Contact
 
-Connect for questions or collaboration:
+Connect for questions or collaboration:  
 
-GitHub: Adnanshaik-databyte
+- **GitHub**: [Adnanshaik-databyte](https://github.com/Adnanshaik-databyte)  
+- **LinkedIn**: [Shaik Mohammed Adnan](https://www.linkedin.com/in/mohammed-adnan-shaik-310092366/)
 
-LinkedIn: Shaik Mohammed Adnan
