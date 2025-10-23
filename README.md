@@ -72,8 +72,8 @@ The trader’s best performance occurs in market fear, highlighting the opportun
 
 Clone Repository:
 
-git clone <repository-link>
-cd trader-behavior-insights
+"git clone <repository-link>"
+"cd trader-behavior-insights"
 
 
 Run Analysis:
@@ -99,3 +99,11 @@ Python: Pandas, NumPy, Matplotlib, Seaborn
 Environment: Jupyter Notebook
 
 Data Sources: Hyperliquid Trader Data, Fear & Greed Index
+
+
+📬 Contact
+If you have questions or suggestions, feel free to connect!
+
+GitHub: [Adnanshaik-databyte] (https://github.com/YourUsername)
+LinkedIn: [Shaik Mohammed Adnan] (https://linkedin.com/in/yourprofile)
+
