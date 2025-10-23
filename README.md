@@ -25,6 +25,7 @@ Generate actionable insights for automated trading strategies
 Visualize patterns in PnL, trade volume, and sentiment
 
 📄 Analysis Structure
+
 📍 Step 1: Data Cleaning & Preparation
 
 Standardized and formatted trade and sentiment data
